@@ -1,6 +1,6 @@
 {
   "name": "usacostlab",
-  "type": "javascript",
+  "compatibility_date": "2026-09-26",
   "assets": {
     "directory": "./",
     "not_found_handling": "single-page-application"
